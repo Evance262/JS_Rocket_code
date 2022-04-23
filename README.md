@@ -11,7 +11,7 @@
                 Space shuttle you want to launce (any name!)
         4. Then hit ok
 
-There you have you shuttle offground :grinning:
+There, you have you shuttle offground :grinning:
 
 **Version**
 
