@@ -1,4 +1,5 @@
-Rocket Code :rocket:
+**Rocket Code** :rocket:
+
         A crazy JavaScript code used to dispact a
 	space shuttle :rocket:
 
